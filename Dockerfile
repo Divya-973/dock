@@ -1,4 +1,4 @@
-FROM njinx
+FROM nginx
 MAINTAINER name divya
 LABEL integrating with jenkins
 Expose 80
